@@ -14,6 +14,12 @@ body {
     font-size: 4.5rem;
 }
 
+h2 {
+    font-size: 3rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px;
+}
+
 p.lead {
     font-size: 1.15rem;
     font-weight: 400;
