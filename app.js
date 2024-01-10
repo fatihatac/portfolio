@@ -7,5 +7,6 @@ $("#page-top").on("click", function () {
 });
 
 
+// console.log();
 
-
+$("#projects a").each((index,e) => console.log(e.target));
