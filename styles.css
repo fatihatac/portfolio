@@ -166,6 +166,18 @@ p.lead {
         position: relative;
         bottom: 10rem;
     }
+
+    #toggle-language {
+        position: absolute;
+        top: 2rem;
+        right: 2rem;
+    }
+}
+
+#toggle-language {
+    position: fixed;
+    top: 4rem;
+    right: 2rem;
 }
 
 .social-icons .social-icon {
@@ -215,6 +227,7 @@ section.resume-section .resume-section-content {
 @media (min-width: 992px) {
     section.resume-section {
         padding: 5rem 3rem;
+        margin-left: 4rem;
     }
 }
 
